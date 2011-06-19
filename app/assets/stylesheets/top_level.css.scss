@@ -1,0 +1,4 @@
+@import "variables";
+@import "subfolder/importme";
+
+#top { color: $test_variable; }
